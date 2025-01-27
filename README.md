@@ -1,2 +1,2 @@
-# JavaS-cript
+# JavaScript
 Code repo for javascript

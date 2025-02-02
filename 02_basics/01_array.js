@@ -29,7 +29,7 @@ const hero = ['batman', 'superman', 'spiderman', 'ironman', 'captain america', '
 
 console.log("A", myArr); // A [ 1, 2, 3, 4, 5 ]
 
-const myN1 = myArr.slice(0,3)
+const myN1 = myArr.slice(1,3)
 console.log(myN1); // [ 2, 3 ]
 
 console.log("B", myArr)  // B [ 1, 2, 3, 4, 5 ]
